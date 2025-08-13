@@ -1,2 +1,2 @@
-include ':app'
-rootProject.name = "Ziayzu Launcher"
+rootProject.name = "Ziayzu-Launcher"
+include(":app")
